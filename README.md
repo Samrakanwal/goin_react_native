@@ -61,19 +61,48 @@ You've successfully run and modified your React Native App. :partying_face:
 
 ### Now what?
 
-- If you want to add this new React Native code to an existing application, check out the [Integration guide](https://reactnative.dev/docs/integration-with-existing-apps).
-- If you're curious to learn more about React Native, check out the [Introduction to React Native](https://reactnative.dev/docs/getting-started).
+### Summary of the Screens:
 
-# Troubleshooting
+1. **Header Section**:
+   - Features a visually appealing slider with different prayer cards such as "Special prayer." 
+   - Each card includes a title, date, and Hebrew text, along with a subtle background image representing the theme of prayer.
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+2. **Quick Access Icons**:
+   - A row of circular icons for actions like **Download**, **Routine**, **Favorites**, and **Recents**.
+   - Clean, minimalistic layout with labels under each icon, making navigation intuitive.
 
-# Learn More
+3. **Shiurim Section**:
+   - Displays a title with a subtitle showing the user's learning progress (e.g., "+50 Learn today").
+   - Cards for specific topics like "Jumash" and "Tania," showcasing progress percentage, estimated time, and options for **Audio** and **Video** learning resources.
+   - Color-coded cards with progress bars for visual clarity.
 
-To learn more about React Native, take a look at the following resources:
+4. **Quote Card**:
+   - A stylized card with a motivational quote about faith and Torah study.
+   - Features a prominent quotation icon and elegant typography for emphasis.
 
-- [React Native Website](https://reactnative.dev) - learn more about React Native.
-- [Getting Started](https://reactnative.dev/docs/environment-setup) - an **overview** of React Native and how setup your environment.
-- [Learn the Basics](https://reactnative.dev/docs/getting-started) - a **guided tour** of the React Native **basics**.
-- [Blog](https://reactnative.dev/blog) - read the latest official React Native **Blog** posts.
-- [`@facebook/react-native`](https://github.com/facebook/react-native) - the Open Source; GitHub **repository** for React Native.
+5. **Nigunim Section**:
+   - Horizontal scrollable cards featuring music titles such as "Calm Jewish" and "Chabad Nigunim."
+   - Each card contains an image, title, description, and session count, making it ideal for music lovers seeking relaxation.
+
+6. **Live Group Discussion**:
+   - Lists ongoing or recent group discussions with a "Live" badge for active sessions.
+   - Displays brief descriptions, host names, and attendee avatars for engagement.
+   - Badges indicating additional participants (e.g., "+3") for large groups.
+
+7. **Kids Section**:
+   - Interactive cards for children featuring stories like "Moises" and "Exodus."
+   - Each card includes an image, title, subtitle, session count, and a "Read" button for navigation.
+
+8. **Donation and Acknowledgment**:
+   - **Donation Section**: Encourages users to donate or share Shiurim with visually engaging buttons for actions.
+   - **Special Thanks Card**: Highlights a donor's contribution with a personalized acknowledgment and a "Read more" button for details.
+
+9. **Bottom Navigation**:
+   - Contains tabs like **Home**, **Classes**, **Giving**, and **Profile** with minimalistic icons.
+   - Provides a consistent navigation experience across the app.
+
+### **Overall Design Theme**:
+The screens reflect a clean, organized, and user-friendly design with:
+- **Consistent visual hierarchy** using typography, spacing, and card-based layouts.
+- **Engaging visuals** like custom icons, illustrations, and relevant background imagery.
+- **Interactive elements** such as progress bars, live badges, and action buttons for enhanced user experience.
